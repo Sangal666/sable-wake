@@ -1,0 +1,11 @@
+SABLE WAKE — RESOURCE CREDITS
+
+Quaternius pirate/nature assets: original license notices retained in assets/.
+Kenney smoke and particle packs: CC0; included notices retained.
+OceanFFT: bundled under addons/tessarakkt.oceanfft/ with its original license.
+Floatable Body: bundled under addons/floatable_body/ with its original license.
+
+Naval materials and sound effects are retained from the working project.
+A complete provenance record for every texture and sound was not present.
+Confirm those redistribution rights before making the repository public.
+No blanket license has been assigned to mixed-origin content.
