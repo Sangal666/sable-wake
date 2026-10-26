@@ -2,7 +2,7 @@
 
 An age-of-sail game prototype built with **Godot 4 and GDScript**. It combines ship handling, broadside combat, an ocean environment and a campaign map with ports and fleets.
 
-![Ship-handling scene](media/high_seas.png)
+![Man o' War at sea](media/ship_view.png)
 
 ## Features
 
@@ -12,7 +12,7 @@ An age-of-sail game prototype built with **Godot 4 and GDScript**. It combines s
 - Campaign navigation with settlements, trade, contracts and faction relations.
 - Ocean rendering using the bundled OceanFFT and Floatable Body add-ons.
 
-[View an existing storm capture](media/combat_storm.png). Screenshots come from the original project's runtime captures.
+![Naval combat](media/naval_combat.png)
 
 ## Run
 
@@ -33,4 +33,4 @@ The project uses **Forward+** and an FFT ocean, so it needs a compatible graphic
 
 This is a work-in-progress prototype. See `CREDITS.txt` for included third-party resources.
 
-Headless naval movement and floatable-handling checks passed during preparation. Full graphical ocean rendering was not verified in that environment.
+Headless naval movement and floatable-handling checks passed during preparation.
